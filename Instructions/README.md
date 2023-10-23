@@ -1,1 +1,1 @@
-Add instruction document to this folder
+Refer to **Course 2 Unit 3 Project 3B When Will They Stop Instructions.pdf** for step-by-step instructions.

@@ -33,9 +33,20 @@ namespace ProgrammingAssignment2
 				// and the comment below. You can of
 				// course add more space between the
 				// comments as needed
+				int currInt;
+				int count;
+				int sum;
+				currInt = GetValue();
+				sum = 0;
+					count = 0;
 
+				while(currInt != -1);
+				{
+					count++;
 
+					
 
+				}
 				// Don't add or modify any code below
 				// this comment
 				input = Console.ReadLine();
